@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Yep_Gonzalo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="username_hint">Usuario</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="Yep">YEP</string>
+    <string name="texto">DO I KNOW YOU?</string>
+    <string name="login_button">LOGIN</string>
+    <string name="sign_text">have an account? SIGN UP here!</string>
+
+</resources>

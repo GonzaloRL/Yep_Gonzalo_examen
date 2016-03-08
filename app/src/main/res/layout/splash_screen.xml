@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cereza">
+
+    <TextView
+        android:text="@string/Yep"
+        android:id="@+id/textView3"
+        android:textSize="70sp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="170dp"
+        style="@style/AuthTextView"/>
+
+    <TextView
+        android:text="@string/texto"
+        android:textSize="44sp"
+        android:id="@+id/textView4"
+        android:layout_below="@+id/textView3"
+        style="@style/AuthTextView"/>
+</RelativeLayout>
